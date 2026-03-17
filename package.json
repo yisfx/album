@@ -15,7 +15,7 @@
         "@nestjs/cli": "7.0.0",
         "@nestjs/common": "7.6.15",
         "@nestjs/core": "7.6.15",
-        "@nestjs/platform-fastify": "7.6.15",
+        "@nestjs/platform-fastify": "11.1.16",
         "@types/log4js": "^2.3.5",
         "fast-react-render": "^1.2.3",
         "fastify": "3.14.1",
