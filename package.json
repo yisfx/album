@@ -18,7 +18,7 @@
         "@nestjs/platform-fastify": "7.6.15",
         "@types/log4js": "^2.3.5",
         "fast-react-render": "^1.2.3",
-        "fastify": "3.14.1",
+        "fastify": "5.8.3",
         "fastify-compress": "^3.4.2",
         "fastify-cookie": "5.3.0",
         "fastify-formbody": "5.0.0",
